@@ -1,0 +1,1 @@
+body{ font-family:Arial,sans-serif; background-color:#f8f9fa; } .blog-box{ background-color:white; border:1pxsolid#ccc; padding:15px; margin-bottom:15px; } @media(max-width:600px){ body{ background-color:lightyellow; } h1{ font-size:22px; } }
